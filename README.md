@@ -92,5 +92,9 @@ This project involves a Streamlit-based application enabling users to interact w
 
 https://github.com/ajaysonwani/pdf_answering_ai
 
+
+https://github.com/ajaysonwani/pdf_answering_ai/assets/109919149/aa2c96b1-9019-4fb9-bf5d-f9dfbf8175bc
+
+
   
 
